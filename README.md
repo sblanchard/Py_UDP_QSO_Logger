@@ -115,17 +115,6 @@ This application requires a QRZ.com XML subscription for full functionality:
 - Text too small: Adjust system font scaling
 - Layout problems: Resize window or restart application
 
-## Development
-
-### Project Structure
-```
-qso-logger/
-├── qso_logger.py          # Main application
-├── README.md              # This file
-├── LICENSE                # License file
-├── screenshots/           # Application screenshots
-└── .qso_logger_config.json # User configuration (auto-generated)
-```
 
 ### Key Components
 - **ConfigManager**: Handles configuration persistence
@@ -176,8 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **v1.0**: Basic Log4OM logging functionality
 
 ## Author
-
-Created by amateur radio operators for the amateur radio community.
+F4JZW
 
 **Contact**: 
 - GitHub Issues for bug reports
