@@ -1,10 +1,8 @@
 # Enhanced QSO Logger v2.0
 
-I required a solution to log QSO's from my Linux (Pi5) pc at my radio to Log4OM on my workstation, thus is born this solution...
+I required a solution to log QSO's from my Linux (Pi5) pc at my radio to Log4OM on my Windows workstation over the network, thus is born this solution...
 
 A modern PyQt5 application for logging amateur radio contacts with integrated QRZ.com lookups and Log4OM integration.
-
-![QSO Logger Screenshot](screenshot.png)
 
 ## Features
 
@@ -97,17 +95,6 @@ This application requires a QRZ.com XML subscription for full functionality:
 - **Collapsible sections**: Click group headers to expand/collapse
 - **Clear All**: Resets all fields to defaults
 - **Auto-clear**: Automatically clears callsign after successful logging
-
-## Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-
-### QRZ Integration
-![QRZ Integration](screenshots/qrz-integration.png)
-
-### Settings Dialogs
-![Settings](screenshots/settings.png)
 
 ## Troubleshooting
 
